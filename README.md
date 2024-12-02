@@ -4,4 +4,4 @@
 
 # Descrição: Projeto que simula um site inicial com links para arquivos de texto contendo respostas a perguntas teóricas.
 
-# Instruções: Esperando atualizações...
+# Instruções: Ao baixar os arquivos do repositório, clique com o botão direito do mouse no arquivo index.html e abra com o navegador de sua preferência.
