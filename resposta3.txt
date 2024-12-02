@@ -1,0 +1,2 @@
+Versionamento é gerenciar as alterações no código-fonte ao longo do tempo. Garantinndo o histórico e rastreabilidade.
+Isto evita que os desenvolvedores sobrescrevam o código um do outro.

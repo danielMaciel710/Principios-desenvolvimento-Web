@@ -1,0 +1,4 @@
+Exemplos de ferramentas são:
+1. HTML 5 (Responsável pela estrutura dos componentes da página, linguagem de marcação)
+2. CSS 3 (Responsável pela estilização da página)
+3. Javascript (Usado para estruturar a lógica dos dados da página e se conectar com banco de dados)

@@ -1,0 +1,2 @@
+O Javascript é uma lingagem de programação de alto nível, é leve e baseada em eventos. 
+É super importante pois através dela é possível tornar os sites mais dinâmicos, pois é possível manipular os elementos da página sem depender de servidores.

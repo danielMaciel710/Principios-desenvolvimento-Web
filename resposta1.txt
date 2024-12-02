@@ -1,0 +1,3 @@
+O surgimento do HTML e do World Wide Web, veio da necessidade de compartilhar informações de forma eficiente de diferentes partes do mundo. 
+Como resultado isso popularizou o jornalismo independente e aumentou o uso de plataformas de compartilhamento como o Youtube.
+O fluxo de informações a grandes distâncias mudou completamente, já que hoje por causa das aplicações web, temos acesso quase que instantâneo à base de dados do mundo inteiro.
